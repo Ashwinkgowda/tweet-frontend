@@ -28,7 +28,7 @@ export default function Tweets() {
 
   return (
     <div>
-      <h2>All Tweets</h2>
+      <h2>All Ashwin</h2>
 
   {tweets.map((tweet) => (
   <div key={tweet._id} style={{ border: "1px solid #ccc", padding: "10px", margin: "10px 0" }}>
